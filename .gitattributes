@@ -1,0 +1,7 @@
+# Treat all .js files as JavaScript
+*.js linguist-language=JavaScript
+
+# Exclude specific directories or files from language statistics
+/vendor/* linguist-vendored
+/node_modules/* linguist-vendored
+*.min.js linguist-generated
