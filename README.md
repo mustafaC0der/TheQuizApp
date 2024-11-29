@@ -1,18 +1,18 @@
 # Quiz App
 
-A simple quiz application built with HTML, CSS, and JavaScript.
+A basic quiz application implemented with HTML, CSS, and JavaScript.
 
 ## Features
-- Multiple-choice questions.
-- Tracks score.
+- Multiple choice questions.
+- Keeps track of score.
 - Interactive UI with hover and selection effects.
 
-## How to Run
+## Running the Application
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/quiz-app.git
 
-    Navigate to the project folder:
+    Go to the project folder:
 
     cd quiz-app
 
@@ -23,7 +23,7 @@ Screenshots
 Future Improvements
 
     Add more questions.
-    Timer for each question.
+Timer for each question.
     Persistent score storage using local storage or a backend.
 
 License
